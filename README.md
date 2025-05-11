@@ -5,7 +5,7 @@ It includes sales trends, product performance, store location insights, time-of-
 
 ## 📂 Project Files
 
-- **Coffee_Sales_Review.pdf**: Final presentation summarizing the analysis.
+- **Bright Coffee Sales Review.pdf**: Final presentation summarizing the analysis.
 - **Flowchart (2)**: Process flowchart related to the sales workflow or data analysis steps.
 - **Coffee Sales Analysis**: Detailed breakdown and deeper insights into the sales data.
 
