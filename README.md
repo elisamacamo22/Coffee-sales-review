@@ -9,6 +9,20 @@ It includes sales trends, product performance, store location insights, time-of-
 - **Flowchart (2)**: Process flowchart related to the sales workflow or data analysis steps.
 - **Coffee Sales Analysis**: Detailed breakdown and deeper insights into the sales data.
 
+## Tools Used
+- Google Slides
+- Excel
+- Snowflake
+- Miro
+- Canva
+
+## Features
+- Sales trends visualization
+- Top-selling product types and categories
+- Store performance comparison
+- Time-of-day sales analysis
+- Business recommendations
+
 ## 📊 Key Findings
 - Morning and Afternoon periods have the highest sales volume.
 - Beverages (especially Espresso) dominate the revenue contribution.
