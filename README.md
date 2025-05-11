@@ -32,7 +32,6 @@ It includes sales trends, product performance, store location insights, time-of-
 ## 🛠 Recommendations
 - Launch marketing promotions focused on afternoon hours.
 - Prioritize stocking high-performing products like Espresso and Cappuccino.
-- Replicate successful sales strategies from the Downtown store to weaker locations.
 - Prepare early campaigns to maximize June sales.
 
 ## ✨ Author
